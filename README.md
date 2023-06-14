@@ -2,8 +2,8 @@
 
 STEP_1
 Firstly, replacing all null values/blank values to 0
-Change datatype wherever required 
-Extract seconds, minutes from avg. talk duration and create a new column by naming -Duration on calls (change the data type)
+, Change datatype wherever required 
+, Extract seconds, minutes from avg. talk duration and create a new column by naming -Duration on calls (change the data type)
 
 KPIS
 1.CALLER ID, this column gives the unique identification number of each caller
